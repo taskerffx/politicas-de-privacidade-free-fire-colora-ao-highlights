@@ -1,0 +1,35 @@
+Política de Privacidade
+
+Esta Política de Privacidade descreve como os vídeos são processados no aplicativo [free fire coloraçao highlights], criado por Guilherme Silva Eugênio. Por favor, leia esta política cuidadosamente para entender como seus vídeos serão tratados ao utilizar o nosso aplicativo.
+
+Dados Coletados:
+
+O aplicativo [free fire coloraçao highlights] coleta vídeos da galeria do seu dispositivo. Esses vídeos são utilizados exclusivamente para aplicar efeitos de edição dentro do aplicativo.
+Processamento de Vídeos:
+
+Os vídeos selecionados são processados localmente pelo aplicativo utilizando a ferramenta FFMPEG. Nenhum vídeo é armazenado em servidores externos ou compartilhado com terceiros durante esse processo.
+Finalidade da Coleta de Dados:
+
+Os vídeos são coletados com a finalidade exclusiva de aplicar efeitos de edição no próprio aplicativo [free fire coloraçao highlights].
+Compartilhamento de Informações:
+
+Nenhuma informação coletada é compartilhada com terceiros. Todos os vídeos são processados localmente no dispositivo do usuário.
+Acesso e Controle de Dados:
+
+Os usuários podem controlar os vídeos que são acessados pelo aplicativo diretamente em seus dispositivos móveis.
+Medidas de Segurança:
+
+Todas as informações são processadas localmente no dispositivo do usuário, garantindo a segurança e privacidade dos vídeos.
+Retenção de Dados:
+
+Os vídeos são retidos apenas durante o uso do aplicativo e são removidos quando o aplicativo é encerrado.
+Notificação de Alterações na Política de Privacidade:
+
+Quaisquer alterações nesta política de privacidade serão comunicadas aos usuários por meio da interface do aplicativo.
+Direitos dos Usuários:
+
+Os usuários têm todos os direitos garantidos pelas leis de proteção de dados aplicáveis em relação aos seus vídeos e informações pessoais.
+Contato:
+
+Se você tiver alguma dúvida ou preocupação sobre nossa política de privacidade, entre em contato com Guilherme Silva Eugênio pelo e-mail: silvaguilherme2402@gmail.com.
+Esta política de privacidade está sujeita a alterações. A última atualização desta política foi feita em [22/02/2024].
